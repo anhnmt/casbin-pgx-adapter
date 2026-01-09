@@ -1,5 +1,9 @@
 # casbin-pgx-adapter
 
+[![Go Reference](https://pkg.go.dev/badge/github.com/noho-digital/casbin-pgx-adapter.svg)](https://pkg.go.dev/github.com/noho-digital/casbin-pgx-adapter)
+[![Test Status](https://github.com/noho-digital/casbin-pgx-adapter/actions/workflows/ci_test.yml/badge.svg)](https://github.com/noho-digital/casbin-pgx-adapter/actions/workflows/ci_test.yml)
+[![Go Report Card](https://goreportcard.com/badge/github.com/noho-digital/casbin-pgx-adapter)](https://goreportcard.com/report/github.com/noho-digital/casbin-pgx-adapter)
+
 A PostgreSQL adapter for [Casbin](https://casbin.org/) using the [pgx](https://github.com/jackc/pgx) driver.
 
 ## Overview
